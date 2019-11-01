@@ -6,7 +6,7 @@ echo 'Git is free software distributed under the GPL.';
 PHP_EOL;
 echo 'Git has a mutable index called stage.';
 PHP_EOL;
-echo 'Git tracks changes.';
+echo 'Git tracks changes of files.';
 
 
 
